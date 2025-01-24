@@ -1,21 +1,30 @@
 ---
 title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
 meta_title: "About"
-image: "/images/author.png"
+image: "/images/devcontainer.png"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: "Where to Start"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  - title: "Resources"
+    description: "A curated list of resources about anything and everything devcontainer."
+    cta:
+      label: "Awesome List"
+      url: "https://github.com/devcontainer-community/awesome-devcontainer"
   
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
+  - title: "Features"
+    description: "A community-driven collection of features for devcontainers."
+    cta:
+      label: "Feature Repo"
+      url: "https://github.com/devcontainer-community/devcontainer-features"
   
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
-
+  - title: "Examples"
+    description: "Comprehensive examples of devcontainer configurations"
+    cta:
+      label: "Example Repo"
+      url: "https://github.com/devcontainer-community/devcontainer-examples"
+  
 ---
 
 A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
