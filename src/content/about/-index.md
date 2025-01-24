@@ -1,5 +1,5 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "devcontainer.community – The community about development environments"
 meta_title: "About"
 image: "/images/devcontainer.png"
 draft: false
@@ -27,6 +27,6 @@ what_i_do:
   
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+<strong>devcontainer.community</strong> is a community-driven platform for developers to share their knowledge and experiences about development environments. We aim to provide a welcoming and inclusive environment for all people, regardless of background or identity.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+<a href="https://github.com/devcontainer-community" class="button">Join the GitHub Org</a>
