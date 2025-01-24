@@ -11,7 +11,7 @@ const { base_url } = config.site;
 const { title, description, slug, className } = Astro.props;
 ---
 
-<ul class={`${className}`}>
+<ul style="display:none" class={`${className}`}>
   <li class="inline-block">
     <a
       aria-label="facebook share button"

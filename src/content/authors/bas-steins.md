@@ -8,4 +8,4 @@ social:
   twitter: https://www.twitter.com/bascodes
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+I am happy to have found a place in this incredibly diverse, exciting and challenging world of technology. For almost two decades, I’ve been helping people turn their ideas into software and I’ve been helping other developers create better software.

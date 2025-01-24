@@ -1,10 +1,12 @@
 ---
-title: Nicolai Froehlich
+title: Nicolai Fröhlich
 meta_title: ""
-image: /images/authors/john-doe.jpg
+image: /images/authors/nicolai-froehlich.jpg
 description: this is meta description
 social:
   twitter: https://www.twitter.com/sf2tuts
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+20+ years in the tech industry, from developer to CTO
+
+

@@ -7,7 +7,7 @@ image: "/images/posts/01.jpg"
 categories: ["devcontainer"]
 authors: ["Nicolai Froehlich"]
 tags: ["vscode", "docker", "devcontainer", "dozzle"]
-draft: false
+draft: true
 ---
 
 Bla Bla
