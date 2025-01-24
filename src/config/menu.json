@@ -5,14 +5,14 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Blog",
+      "url": "/blog"
     }
   ],
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Blog",
+      "url": "/blog"
     },
     {
       "name": "Code of Conduct",
