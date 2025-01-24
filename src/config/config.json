@@ -6,8 +6,8 @@
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "34",
+    "logo_width": "321",
+    "logo_height": "42",
     "logo_text": "devcontainer.community"
   },
 
@@ -18,7 +18,7 @@
 
   "metadata": {
     "meta_author": "devcontainer.community",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "/images/logo.png",
     "meta_description": "devcontainer community Blog"
   },
 
