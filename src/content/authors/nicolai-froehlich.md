@@ -2,7 +2,7 @@
 title: Nicolai Fröhlich
 meta_title: ""
 image: /images/authors/nicolai-froehlich.jpg
-description: this is meta description
+description: Nicolai Fröhlich has been in the tech industry for over 20 years, from developer to CTO.
 social:
   twitter: https://www.twitter.com/sf2tuts
 ---

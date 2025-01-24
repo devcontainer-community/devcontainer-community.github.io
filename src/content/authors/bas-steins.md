@@ -2,7 +2,7 @@
 title: Bas Steins
 meta_title: ""
 image: /images/authors/bas-steins.jpg
-description: this is meta description
+description: Bas Steins is a software developer, consultant, and trainer. He has been helping people turn their ideas into software for almost two decades.
 social:
   github: https://www.github.com/bascodes
   twitter: https://www.twitter.com/bascodes
