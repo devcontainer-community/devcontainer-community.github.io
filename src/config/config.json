@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "devcontainer.community",
+    "base_url": "https://devcontainer.community",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "321",
+    "logo_height": "42",
+    "logo_text": "devcontainer.community"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "devcontainer.community",
+    "meta_image": "/images/logo.png",
+    "meta_description": "devcontainer community Blog"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2025 [devcontainer.community](https://devcontainer.community)"
+  },
+
+  "contactinfo": {
+    "address": "",
+    "email": "",
+    "phone": ""
+  }
+}
