@@ -7,7 +7,7 @@ image: "/images/posts/cloudy.jpg"
 categories: ["vscode"]
 authors: ["Bas Steins"]
 tags: ["vscode", "python", "go", "javascript"]
-draft: true
+draft: false
 ---
 
 Below is a list of some of the top Visual Studio Code extensions I use every day. These extensions help me be more productive and efficient when working on various projects. I've categorized them by programming language or technology to make it easier to find the ones you need.
