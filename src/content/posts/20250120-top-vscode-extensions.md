@@ -3,7 +3,7 @@ title: "Top VSCode Extensions I Use Everyday - 2025 Edition"
 meta_title: ""
 description: "meta description"
 date: 2025-01-20T05:00:00Z
-image: "/images/posts/gear.jpg"
+image: "/images/posts/cloudy.jpg"
 categories: ["vscode"]
 authors: ["Bas Steins"]
 tags: ["vscode", "python", "go", "javascript"]
