@@ -1,0 +1,22 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "name": "Code of Conduct",
+      "url": "/code-of-conduct"
+    }
+  ]
+}
