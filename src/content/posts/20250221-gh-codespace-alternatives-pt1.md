@@ -29,9 +29,7 @@ Some of the GitHub Codespaces alternatives listed below have recently pivoted th
 
 ## Alternatives to GitHub Codespaces
 
-### Cloud Offerings
-
-#### DevZero
+### DevZero
 
 [![DevZero](/images/posts/gh-codespace-alternatives/devzero.png)](https://devzero.io)
 
@@ -48,7 +46,7 @@ DevZero is a platform designed for developers, offering customizable, standardiz
 | Specs | 21,120 minutes (1vCPU, 4GiB RAM) | -->
 
 
-#### Gitpod
+### Gitpod
 
 [![GitPod](/images/posts/gh-codespace-alternatives/gitpod.png)](https://gitpod.io)
 
@@ -56,7 +54,7 @@ DevZero is a platform designed for developers, offering customizable, standardiz
 
 Gitpod is a cloud-based platform providing prebuilt, collaborative development environments powered by VS Code. It allows developers to work directly in the browser, with all tools and dependencies preconfigured, reducing setup time. It supports GitHub, GitLab, and Bitbucket, offering features like prebuilds and collaboration, making it ideal for open-source projects and teams. A web search highlighted its open-source Kubernetes application nature, enhancing its appeal for scalable development.
 
-#### Nimbus
+### Nimbus
 
 [![Nimbus](/images/posts/gh-codespace-alternatives/nimbus.png)](https://usenimbus.com)
 
@@ -64,7 +62,7 @@ Gitpod is a cloud-based platform providing prebuilt, collaborative development e
 
 Nimbus, found at usenimbus.com, is a remote development infrastructure platform focusing on consistent, production-like environments. It aims to reduce environment issues, enhance productivity, and provide scalability and security for large engineering teams. Features include easy setup, fan-out environment updates, and control access, with options for self-hosted or cloud deployment, catering to enterprises needing reliable dev setups.
 
-#### Jeitify Devspace
+### Jeitify Devspace
 
 [![devspace](/images/posts/gh-codespace-alternatives/jetify.png)](https://www.jetify.com/devspace)
 
@@ -72,7 +70,7 @@ Nimbus, found at usenimbus.com, is a remote development infrastructure platform 
 
 Jetify Devspace, part of Jetify's offerings, is a cloud-based development environment powered by Devbox. It enables developers to launch any GitHub repo in a browser-based editor in seconds, using Visual Studio Code for editing. It supports over 100,000 Nix packages for configuration, with no need for Dockerfiles, making it suitable for teams seeking reproducible environments. Documentation emphasized its integration with Devbox CLI for package management.
 
-#### Repl.it
+### Repl.it
 
 [![repl.it](/images/posts/gh-codespace-alternatives/replit.png)](https://repl.it)
 
@@ -80,7 +78,7 @@ Jetify Devspace, part of Jetify's offerings, is a cloud-based development enviro
 
 Repl.it is an online integrated development environment (IDE) supporting over 50 programming languages, popular among students and developers for its ease of use. It offers a collaborative platform for coding, learning, and sharing projects, with features like real-time collaboration and deployment. A web search confirmed its focus on interactive programming, making it ideal for educational settings and small projects.
 
-#### DevSpace
+### DevSpace
 
 [![devspace](/images/posts/gh-codespace-alternatives/devspace.png)](https://devspace.sh)
 
@@ -88,7 +86,7 @@ Repl.it is an online integrated development environment (IDE) supporting over 50
 
 DevSpace, found at devspace.sh, is a client-only, open-source CLI tool for Kubernetes development. It automates deployment workflows, allowing developers to work directly inside containers, with features like file synchronization and port forwarding. It integrates with Helm and kubectl, requiring no cluster installation, making it suitable for teams using Kubernetes, as noted in its documentation.
 
-#### Strong Network
+### Strong Network
 
 [![strong.network](/images/posts/gh-codespace-alternatives/strongnetwork.png)](https://strong.network)
 
@@ -96,7 +94,7 @@ DevSpace, found at devspace.sh, is a client-only, open-source CLI tool for Kuber
 
 Strong Network provides secure cloud development environments, focusing on enhancing developer experience, productivity, security, and compliance. It caters to hyper-scaling start-ups and Fortune 500 companies, offering a self-hosted platform with features like Git integration and peer-editing enabled IDEs. A web search highlighted its recognition in Gartner's Hype Cycle for Agile and DevOps, emphasizing its enterprise focus.
 
-#### Koding
+### Koding
 
 [![Koding](/images/posts/gh-codespace-alternatives/koding.png)](https://koding.com)
 
@@ -104,7 +102,7 @@ Strong Network provides secure cloud development environments, focusing on enhan
 
 Koding offers cloud-based development environments for creating, sharing, scaling, and managing dev setups. It allows volume mounting and SSH access to VMs, with analytics for productivity insights, suitable for teams. Its integration with services like Heroku and AWS, as seen in its features page, makes it versatile for complex projects.
 
-#### Okteto
+### Okteto
 
 [![Okteto](/images/posts/gh-codespace-alternatives/okteto.png)](https://okteto.com)
 
@@ -112,7 +110,7 @@ Koding offers cloud-based development environments for creating, sharing, scalin
 
 Okteto automates the developer experience on Kubernetes, providing a seamless, cloud-native development environment. It reduces build waits by 97%, offering code synchronization and cloud-based builds, ideal for teams using Kubernetes. Its open-source CLI and platform features, as noted in GitHub, support integration with Git providers and enhance productivity.
 
-#### Coder / Code-server
+### Coder / Code-server
 
 [![Coder.com](/images/posts/gh-codespace-alternatives/coder.png)](https://coder.com)
 
@@ -120,7 +118,7 @@ Okteto automates the developer experience on Kubernetes, providing a seamless, c
 
 Coder is an open-source, self-hosted platform for cloud development environments, providing secure and scalable setups. It supports VM, Kubernetes, and other infrastructures, with features like WireGuard® networking and SOC 2 Type 2 compliance, catering to enterprises needing control, as seen in its security details.
 
-#### kasm Workspaces
+### kasm Workspaces
 
 [![kasmweb.com](/images/posts/gh-codespace-alternatives/kasm.png)](https://kasmweb.com)
 
@@ -128,7 +126,7 @@ Coder is an open-source, self-hosted platform for cloud development environments
 
 Kasm Workspaces is a container streaming platform delivering secure browser, desktop, and application workloads. It offers zero-trust remote browser isolation and desktop as a service, suitable for remote work and cybersecurity, with deployment options in cloud, on-premise, or hybrid, as noted in its documentation.
 
-#### hocus
+### hocus
 
 [![hocus](/images/posts/gh-codespace-alternatives/houcs.png)](https://hocus.dev)
 
@@ -138,7 +136,7 @@ Hocus is a self-hosted platform for automated, disposable dev environments, inte
 
 **Note**: hocus has discontinued its software.
 
-#### devpod
+### devpod
 
 [![devpod](/images/posts/gh-codespace-alternatives/devpod.png)](https://devpod.sh)
 
@@ -146,7 +144,7 @@ Hocus is a self-hosted platform for automated, disposable dev environments, inte
 
 DevPod is an open-source, client-only tool for creating reproducible dev environments, usable with any IDE like VS Code and JetBrains. It supports deployment on any cloud, Kubernetes, or locally, with features like prebuilds and auto-inactivity shutdown, making it cost-effective and flexible, as noted in its documentation.
 
-#### Daytona
+### Daytona
 
 [![daytona](/images/posts/gh-codespace-alternatives/daytona.png)](https://daytona.io)
 
@@ -154,7 +152,7 @@ DevPod is an open-source, client-only tool for creating reproducible dev environ
 
 Daytona is an open-source, self-hosted development environment manager, offering secure and standardized environments. It supports multiple providers like AWS and Azure, with IDE support for VS Code and JetBrains, and a free SDK for programmatic control, positioning it as an enterprise-grade GitHub Codespaces alternative.
 
-#### PaizaCloud
+### PaizaCloud
 
 [![paiza.cloud](/images/posts/gh-codespace-alternatives/paiza.png)](https://paiza.cloud)
 
