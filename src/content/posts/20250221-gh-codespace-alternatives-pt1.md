@@ -1,7 +1,7 @@
 ---
-title: "GitHub Codespaces Alternatives – Part I"
-meta_title: ""
-description: ""
+title: "GitHub Codespaces Alternatives"
+meta_title: "GitHub Codespaces Alternatives"
+description: "Comparison of 15 alternatives to GitHub Codespaces, including DevZero, Gitpod, Nimbus, Jeitify Devspace, Repl.it, DevSpace, Strong Network, Koding, Okteto, Coder, Kasm Workspaces, hocus, devpod, Daytona, and PaizaCloud."
 date: 2025-02-21T05:00:00Z
 image: "/images/posts/ghcsalt.jpg"
 categories: ["github"]
