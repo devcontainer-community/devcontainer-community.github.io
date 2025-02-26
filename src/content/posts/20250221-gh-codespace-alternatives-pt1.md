@@ -128,7 +128,7 @@ Kasm Workspaces is a container streaming platform delivering secure browser, des
 
 ### hocus
 
-[![hocus](/images/posts/gh-codespace-alternatives/houcs.png)](https://hocus.dev)
+[![hocus](/images/posts/gh-codespace-alternatives/hocus.png)](https://hocus.dev)
 
 **A self-hosted platform for automated, disposable dev environments with continuous building and Git integration, enhancing workflow efficiency.**
 
@@ -178,4 +178,4 @@ PaizaCloud is a browser-based cloud IDE offering a full Linux server environment
 | hocus.dev        | Open-Source         | Self-Hosted | Any defined in hocus.yml             | Yes          | High     | High       | Git providers                    |
 | devpod.sh        | Open-Source         | Both        | Any defined in devcontainer.json    | Yes          | High     | High       | Any IDE, multiple providers     |
 | daytona.io       | Open-Source         | Self-Hosted | Multiple                             | Yes          | High     | High       | Git, IDEs                        |
-| paiza.cloud      | Free/Paid            | Cloud-Based | PHP, Ruby, Java, Django, Node.js    | Yes          | High     | -          | -                               |
+| paiza.cloud      | Free/Paid            | Cloud-Based | PHP, Ruby, Java, Django, Node.js    | Yes          | High     | High          | Git                               |
