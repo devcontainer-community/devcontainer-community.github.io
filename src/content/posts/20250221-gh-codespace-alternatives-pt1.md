@@ -10,6 +10,12 @@ tags: ["vscode", "codespaces"]
 draft: false
 ---
 
+
+IDX
+CodeAnywhere
+BunnyShell
+
+
 GitHub Codespaces is a cloud-based development environment that allows you to spin up a containerized development environment in the cloud. It's a fantastic tool for quickly getting started with a project, collaborating with others, or working on a machine without the necessary tools installed.
 
 However, GitHub Codespaces is not the only player in the cloud-based development environment space. In this article, we'll explore some alternatives to GitHub Codespaces that offer similar features and functionality.
@@ -78,13 +84,7 @@ Jetify Devspace, part of Jetify's offerings, is a cloud-based development enviro
 
 Repl.it is an online integrated development environment (IDE) supporting over 50 programming languages, popular among students and developers for its ease of use. It offers a collaborative platform for coding, learning, and sharing projects, with features like real-time collaboration and deployment. A web search confirmed its focus on interactive programming, making it ideal for educational settings and small projects.
 
-### DevSpace
 
-[![devspace](/images/posts/gh-codespace-alternatives/devspace.png)](https://devspace.sh)
-
-**An open-source CLI tool for automating deployment and development workflows on any standard-compliant container runtime.**
-
-DevSpace, found at devspace.sh, is a client-only, open-source CLI tool for Kubernetes development. It automates deployment workflows, allowing developers to work directly inside containers, with features like file synchronization and port forwarding. It integrates with Helm and kubectl, requiring no cluster installation, making it suitable for teams using Kubernetes, as noted in its documentation.
 
 ### Strong Network
 
@@ -110,13 +110,7 @@ Koding offers cloud-based development environments for creating, sharing, scalin
 
 Okteto automates the developer experience on Kubernetes, providing a seamless, cloud-native development environment. It reduces build waits by 97%, offering code synchronization and cloud-based builds, ideal for teams using Kubernetes. Its open-source CLI and platform features, as noted in GitHub, support integration with Git providers and enhance productivity.
 
-### Coder / Code-server
 
-[![Coder.com](/images/posts/gh-codespace-alternatives/coder.png)](https://coder.com)
-
-**An open-source, self-hosted platform for secure, scalable development environments, offering control and efficiency.**
-
-Coder is an open-source, self-hosted platform for cloud development environments, providing secure and scalable setups. It supports VM, Kubernetes, and other infrastructures, with features like WireGuard® networking and SOC 2 Type 2 compliance, catering to enterprises needing control, as seen in its security details.
 
 ### kasm Workspaces
 
@@ -126,31 +120,10 @@ Coder is an open-source, self-hosted platform for cloud development environments
 
 Kasm Workspaces is a container streaming platform delivering secure browser, desktop, and application workloads. It offers zero-trust remote browser isolation and desktop as a service, suitable for remote work and cybersecurity, with deployment options in cloud, on-premise, or hybrid, as noted in its documentation.
 
-### hocus
 
-[![hocus](/images/posts/gh-codespace-alternatives/hocus.png)](https://hocus.dev)
 
-**A self-hosted platform for automated, disposable dev environments with continuous building and Git integration, enhancing workflow efficiency.**
 
-Hocus is a self-hosted platform for automated, disposable dev environments, integrating with Git providers like GitHub and GitLab. It offers continuous building like a CI system, with micro VMs for consistency, suitable for teams seeking self-hosted solutions, as seen in its documentation, though it's no longer actively maintained.
 
-**Note**: hocus has discontinued its software.
-
-### devpod
-
-[![devpod](/images/posts/gh-codespace-alternatives/devpod.png)](https://devpod.sh)
-
-**An open-source, client-only tool for creating reproducible dev environments, usable with any IDE and deployable on any cloud or locally.**
-
-DevPod is an open-source, client-only tool for creating reproducible dev environments, usable with any IDE like VS Code and JetBrains. It supports deployment on any cloud, Kubernetes, or locally, with features like prebuilds and auto-inactivity shutdown, making it cost-effective and flexible, as noted in its documentation.
-
-### Daytona
-
-[![daytona](/images/posts/gh-codespace-alternatives/daytona.png)](https://daytona.io)
-
-**An open-source, self-hosted manager for secure, standardized dev environments, supporting multiple providers and IDEs, an alternative to GitHub Codespaces.**
-
-Daytona is an open-source, self-hosted development environment manager, offering secure and standardized environments. It supports multiple providers like AWS and Azure, with IDE support for VS Code and JetBrains, and a free SDK for programmatic control, positioning it as an enterprise-grade GitHub Codespaces alternative.
 
 ### PaizaCloud
 
@@ -159,6 +132,41 @@ Daytona is an open-source, self-hosted development environment manager, offering
 **A browser-based cloud IDE offering a full Linux server environment for web and application development, supporting various languages and frameworks.**
 
 PaizaCloud is a browser-based cloud IDE offering a full Linux server environment for web and application development. It supports languages like PHP, Ruby on Rails, and Node.js, with features for file management and server operations, ideal for beginners and educational settings, as seen in user testimonials.
+
+
+### idx
+
+[![idx](/images/posts/gh-codespace-alternatives/idx.png)](https://idx.dev)
+
+**A cloud-based development environment for building, testing, and deploying applications, supporting multiple languages and frameworks.**
+
+idx is a cloud-based development environment for building, testing, and deploying applications. It supports multiple languages and frameworks, with features like real-time collaboration and code sharing, making it suitable for teams and open-source projects. A web search highlighted its focus on AI-powered code completion, enhancing developer productivity.
+
+### CodeAnywhere
+
+[![CodeAnywhere](/images/posts/gh-codespace-alternatives/codeanywhere.png)](https://codeanywhere.com)
+
+**A cloud-based development environment offering a full-featured IDE, supporting multiple languages and platforms, with collaboration and deployment features.**
+
+CodeAnywhere is a cloud-based development environment offering a full-featured IDE supporting multiple languages and platforms. It provides collaboration features like pair programming and deployment options, making it suitable for teams and remote work. A web search highlighted its focus on container-based development, enhancing scalability and flexibility.
+
+### BunnyShell
+
+[![BunnyShell](/images/posts/gh-codespace-alternatives/bunnyshell.png)](https://bunnyshell.com)
+
+**A cloud management platform offering development environments, infrastructure automation, and deployment tools, simplifying DevOps workflows.**
+
+BunnyShell is a cloud management platform offering development environments, infrastructure automation, and deployment tools. It simplifies DevOps workflows with features like auto-scaling and monitoring, making it suitable for teams and enterprises. A web search highlighted its focus on cost optimization and security, enhancing efficiency and compliance.
+
+
+### Sealos
+
+[![Sealos](/images/posts/gh-codespace-alternatives/sealos.png)](https://sealos.io)
+
+**A cloud-based development environment for Kubernetes, providing a seamless, scalable platform for efficient coding and deployment.**
+
+Sealos is a cloud-based development environment for Kubernetes, providing a seamless, scalable platform for efficient coding and deployment. It offers features like Helm integration and Git synchronization, ideal for teams using Kubernetes. A web search highlighted its focus on cloud-native development, enhancing productivity and collaboration.
+
 
 ## Conclusion / Comparison Table
 
@@ -169,13 +177,12 @@ PaizaCloud is a browser-based cloud IDE offering a full Linux server environment
 | usenimbus.com     | Subscription         | Cloud-Based | Multiple                             | Yes          | High     | High       | Custom                          |
 | jetify.com/devspace | Subscription       | Cloud-Based | Multiple                             | Yes          | High     | High       | GitHub, Devbox CLI              |
 | repl.it          | Free/Paid            | Cloud-Based | Multiple                             | Yes          | High     | Medium     | GitHub, etc.                    |
-| devspace.sh       | Open-Source         | Self-Hosted | Any in containers                    | Yes          | High     | High       | Helm, Kube                      |
 | strong.network    | Subscription         | Cloud-Based | Multiple                             | Yes          | High     | High       | Git, CI/CD                      |
 | koding.com        | Subscription         | Cloud-Based | Multiple                             | Yes          | High     | High       | Various services                |
 | okteto.com        | Open-Source/Commercial | Both     | Any in containers                    | Yes          | High     | High       | Git, CI/CD                      |
-| coder.com         | Open-Source         | Self-Hosted | Any in containers                    | Yes          | High     | High       | GitHub, GitLab                  |
 | kasmweb.com       | Subscription         | Both        | Multiple                             | Yes          | High     | High       | Cloud and on-premises           |
-| hocus.dev        | Open-Source         | Self-Hosted | Any defined in hocus.yml             | Yes          | High     | High       | Git providers                    |
-| devpod.sh        | Open-Source         | Both        | Any defined in devcontainer.json    | Yes          | High     | High       | Any IDE, multiple providers     |
-| daytona.io       | Open-Source         | Self-Hosted | Multiple                             | Yes          | High     | High       | Git, IDEs                        |
 | paiza.cloud      | Free/Paid            | Cloud-Based | PHP, Ruby, Java, Django, Node.js    | Yes          | High     | High          | Git                               |
+| idx.dev          | Free/Paid            | Cloud-Based | Multiple                             | Yes          | High     | High       | Git, CI/CD                      |
+| codeanywhere.com  | Free/Paid            | Cloud-Based | Multiple                             | Yes          | High     | High       | Git, CI/CD                      |
+| bunnyshell.com    | Subscription         | Cloud-Based | Multiple                             | Yes          | High     | High       | Git, CI/CD                      |
+| sealos.io        | Subscription         | Cloud-Based | Multiple                             | Yes          | High     | High       | Git, CI/CD                      |
