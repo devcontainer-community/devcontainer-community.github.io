@@ -12,6 +12,8 @@ draft: false
 
 
 
+
+
 ### Daytona
 
 [![daytona](/images/posts/gh-codespace-alternatives/daytona.png)](https://daytona.io)
@@ -79,3 +81,8 @@ While tilt is not a direct alternative to GitHub Codespaces, it's an open-source
 | coder.com         | Open-Source         | Self-Hosted | Any in containers                    | Yes          | High     | High       | GitHub, GitLab                  |
 | devspace.sh       | Open-Source         | Self-Hosted | Any in containers                    | Yes          | High     | High       | Helm, Kube                      |
 | tilt.dev          | Open-Source         | Self-Hosted | Any in containers                    | Yes          | High     | High       | Multiple languages, frameworks |
+
+
+# Cloud Offerings
+
+Find cloud hosted / saas alternatives to GitHub Codespaces in the first part of this series [here](/20250221-gh-codespace-alternatives-pt1).
