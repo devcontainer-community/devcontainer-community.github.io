@@ -7,7 +7,7 @@ image: "/images/posts/prebuild.jpg"
 categories: ["github"]
 authors: ["Bas Steins"]
 tags: ["vscode", "codespaces", "github-actions"]
-draft: true
+draft: false
 ---
 
 Development Containers (or DevContainers) are a great way to ensure that everyone working on a project has the same development environment. This is especially useful when working with a team or when you want to make sure that your project can be built and run on any machine. In this article, we are using the `devcontainers/ci` action to prebuild dev containers for your project.
