@@ -2,12 +2,12 @@
 title: "Open Source GitHub Codespaces Alternatives"
 meta_title: "Open Source GitHub Codespaces Alternatives"
 description: ""
-date: 2025-02-27T05:00:00Z
+date: 2025-03-04T05:00:00Z
 image: "/images/posts/ghcsalt.jpg"
 categories: ["github"]
 authors: ["Bas Steins"]
 tags: ["vscode", "codespaces"]
-draft: true
+draft: false
 ---
 
 

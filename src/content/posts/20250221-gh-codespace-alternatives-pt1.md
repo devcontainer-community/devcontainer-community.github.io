@@ -11,11 +11,6 @@ draft: false
 ---
 
 
-IDX
-CodeAnywhere
-BunnyShell
-
-
 GitHub Codespaces is a cloud-based development environment that allows you to spin up a containerized development environment in the cloud. It's a fantastic tool for quickly getting started with a project, collaborating with others, or working on a machine without the necessary tools installed.
 
 However, GitHub Codespaces is not the only player in the cloud-based development environment space. In this article, we'll explore some alternatives to GitHub Codespaces that offer similar features and functionality.
