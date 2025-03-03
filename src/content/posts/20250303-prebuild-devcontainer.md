@@ -1,5 +1,5 @@
 ---
-title: "Speed up your DevContainer setup with prebuilt images!"
+title: "Speed up your DevContainer setup with prebuilt images"
 meta_title: "Prebuild dev containers with GitHub Actions"
 description: "In this article, we are using the 'devcontainers/ci' action to prebuild dev containers for your project."
 date: 2025-03-03T05:00:00Z
