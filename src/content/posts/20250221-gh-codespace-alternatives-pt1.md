@@ -185,4 +185,4 @@ Sealos is a cloud-based development environment for Kubernetes, providing a seam
 
 # Open source alternatives
 
-Find open source / self-hosted alternatives to GitHub Codespaces in the second part of this series: [GitHub Codespaces Alternatives - Open Source Edition](20250304-gh-codespace-alternatives-pt2).
+Find open source / self-hosted alternatives to GitHub Codespaces in the second part of this series: [GitHub Codespaces Alternatives - Open Source Edition](/20250304-gh-codespace-alternatives-pt2).
